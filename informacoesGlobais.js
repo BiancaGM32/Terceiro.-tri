@@ -1,0 +1,2 @@
+informacoesGlobais.js
+
